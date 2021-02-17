@@ -25,3 +25,5 @@ Please provide a main method that executes a sample run.
 This task should be done alone. You can make use of any written or web resource you find,
 incl. 3rd party libraries).
 The code should work, and be as clean and efficient as you think necessary.
+
+The program reads in the names from the names.txt file and outputs the resulting map to the out.txt file
